@@ -17,8 +17,14 @@
 <img src="https://user-images.githubusercontent.com/67051799/173234225-d3a441af-2d1c-4cb5-b8bd-633afe03146c.png)" />
 <img src="https://user-images.githubusercontent.com/67051799/173234226-d9c809cf-3885-42b4-9840-96a1d3cbb0f3.png" />
 
-<p> Learnings from this application : Got to know about Blockchain Technology. Learned to write down smart contracts and then also got to know how do we write tests for contracts validation. 
+<h2> Learnings from this application: </h2>
 
-  <p> Challenges faced during completing the project : Since it was a new field for me so understanding the complex blockchain terminologies like Contract Verification, Gas Fees, Block Confirmation, how does blockchain works etc. was a bit difficult. But I managed to learn them. I also made notes on Notion for some important concepts. Also while writing contracts I faced difficulty understanding payable keyword, fallback keywork but managed to learn them also. Some concepts which are still challenging for me are Improving Contracts storage, complexity so as to reduce gas fees. I aLso faced difficulty while testing contracts. A lot of times this error used to come ie : Unable to estimate gas fees. But slowly slowly I figured out by reading from Stack overflow as well as github discussions.
+<p>Got to know about Blockchain Technology. Learned to write down smart contracts and then also got to know how do we write tests for contracts validation. </p>
+
+  <h2> Challenges faced during completing the project : </h2>
+  
+  <p>Since it was a new field for me so understanding the complex blockchain terminologies like Contract Verification, Gas Fees, Block Confirmation, how does blockchain works etc. was a bit difficult. But I managed to learn them. I also made notes on Notion for some important concepts. Also while writing contracts I faced difficulty understanding payable keyword, fallback keywork but managed to learn them also. Some concepts which are still challenging for me are Improving Contracts storage, complexity so as to reduce gas fees. I aLso faced difficulty while testing contracts. A lot of times this error used to come ie : Unable to estimate gas fees. But slowly slowly I figured out by reading from Stack overflow as well as github discussions. </p>
  
-<p> Future Updations Possible in this application : Currently I just made one contract and donation amount is going into that. But we can make multiple contracts for different donation causes. For eg : There will be separate contract for Child Education,separate contract for Cancer Treatment etc. Again Core functionality would still remain the same but complexity would be increased a bit. UI would be connected to backend in such a way that whichever cause user will select corresponding to that contract would be called in the backend. </p>
+<h2> Future Updations Possible in this application : </h2>
+
+<p>Currently I just made one contract and donation amount is going into that. But we can make multiple contracts for different donation causes. For eg : There will be separate contract for Child Education,separate contract for Cancer Treatment etc. Again Core functionality would still remain the same but complexity would be increased a bit. UI would be connected to backend in such a way that whichever cause user will select corresponding to that contract would be called in the backend. </p>
